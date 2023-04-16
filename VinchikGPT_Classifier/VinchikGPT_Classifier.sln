@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VinchikGPT_Classifier", "VinchikGPT_Classifier.pyproj", "{FA76D5C5-FC0A-4D07-AE67-A5408A663E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA76D5C5-FC0A-4D07-AE67-A5408A663E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA76D5C5-FC0A-4D07-AE67-A5408A663E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {402DF0E8-AC51-4921-B805-A7766A97E2DA}
+	EndGlobalSection
+EndGlobal
